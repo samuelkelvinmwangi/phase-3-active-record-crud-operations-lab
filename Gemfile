@@ -15,6 +15,8 @@ gem "rake"
 # Provides functionality to interact with a SQLite3 database
 # https://github.com/sparklemotion/sqlite3-ruby
 gem "sqlite3", "~> 1.4"
+gem 'did_you_mean', '~> 1.5'
+
 
 # Require all files in a folder
 # https://github.com/jarmo/require_all
